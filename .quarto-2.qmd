@@ -1,0 +1,9 @@
+---
+title: "My Second Quarto Document"
+author: "Angel Frias"
+format: html
+---
+
+```{r}
+2 * 2
+```
